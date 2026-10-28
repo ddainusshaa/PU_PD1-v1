@@ -13,3 +13,5 @@ $apturetie = Get-Service |
     Select-Object Name, Status
 
 # TODO: saglabā $apturetie failā apturetie.csv
+$apturetie | Export-Csv -Path apturetie.csv -NoTypeInformation
+Write-Host "Fails gatavs"
