@@ -1,0 +1,9 @@
+1. Skripts palaižas bez kļūdas un izvada desmit servisus. Tomēr atbilde nesakrīt ar to, ko tu
+gaidīji. Kā tu to pamanītu un ko pārbaudītu vispirms?
+
+A: Es to pamanītu paskatoties konsole un redzētu outputu, tālak es ietu skatīties vai es vispār saglabaju šobrīdējo scriptu un vai es vispār startoju pareizo scriptu.
+
+2. Audzēknis uzrakstīja CSV atskaiti. Atverot to Excel, latviešu burti ir kārtībā, bet visas
+kolonnas ir salipušas vienā. Nosauc cēloni un labojumu
+
+A: Ja audzēknis to ir darijis caur powershell exportejis CSV tad viņs aizmiris kodā pielikt un export csv pielikt -Append 
